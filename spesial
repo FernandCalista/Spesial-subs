@@ -9022,25 +9022,25 @@ https://webhdrunns.mizhls.ru/lb/premium126/index.m3u8|referer=https://lewblivehd
 https://webhdrunns.mizhls.ru/lb/premium370/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
-#EXTINF:0 tvg-logo="https://www.astronauts.id/blog/wp-content/uploads/2022/06/Astro-Logo@4x.png" group-title="ASSP",ASTRO SPORT 1
+#EXTINF:0 tvg-logo="https://www.astronauts.id/blog/wp-content/uploads/2022/06/Astro-Logo@4x.png" group-title="CHANNEL | ASTRO SPORT",ASTRO SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/astro/drmsk.php?id=1094487
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 https://arrow.suwalbolong.workers.dev/CH1/masterCH1.mpd
 
-#EXTINF:0 tvg-logo="https://www.astronauts.id/blog/wp-content/uploads/2022/06/Astro-Logo@4x.png" group-title="ASSP",ASTRO SPORT 2
+#EXTINF:0 tvg-logo="https://www.astronauts.id/blog/wp-content/uploads/2022/06/Astro-Logo@4x.png" group-title="CHANNEL | ASTRO SPORT",ASTRO SPORT 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/astro/drmsk.php?id=1094496
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 https://arrow.suwalbolong.workers.dev//CH4/masterCH4.mpd
 
-#EXTINF:0 tvg-logo="https://www.astronauts.id/blog/wp-content/uploads/2022/06/Astro-Logo@4x.png" group-title="ASSP",ASTRO SPORT 3
+#EXTINF:0 tvg-logo="https://www.astronauts.id/blog/wp-content/uploads/2022/06/Astro-Logo@4x.png" group-title="CHANNEL | ASTRO SPORT",ASTRO SPORT 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/astro/drmsk.php?id=1094498
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 https://arrow3.suwalbolong.workers.dev/CH1/masterCH1.mpd
 
-#EXTINF:0 tvg-logo="https://www.astronauts.id/blog/wp-content/uploads/2022/06/Astro-Logo@4x.png" group-title="ASSP",ASTRO SPORT 4
+#EXTINF:0 tvg-logo="https://www.astronauts.id/blog/wp-content/uploads/2022/06/Astro-Logo@4x.png" group-title="CHANNEL | ASTRO SPORT",ASTRO SPORT 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/astro/drmsk.php?id=1094502
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
