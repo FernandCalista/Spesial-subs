@@ -7903,9 +7903,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/o
 https://suka.openwindows038.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PZZS2Kt/Astro-Arena-Bola.png" group-title="CHANNEL | ASTRO",Astro Arena Bola 1 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://fm1077.serv00.net/Smart.php?id=Bolaarena1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PZZS2Kt/Astro-Arena-Bola.png" group-title="CHANNEL | ASTRO",Astro Arena Bola 1
 http://fm1077.serv00.net/Smart.php?id=Bolaarena1
 
 #EXTINF:-1 tvg-id="Astro Arena Bola 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Astro_Arena_Bola_2.png" group-title="CHANNEL | ASTRO",Astro Arena Bola 2
