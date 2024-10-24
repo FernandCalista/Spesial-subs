@@ -7896,13 +7896,13 @@ PROLIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://kametv.my.id/pdx/play.m3u8?id=206
 
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2024/10/996x664/livoli_b13dedb.jpg" group-title="CHANNEL | PROLIGA",Livoli Divisi Utama 2024 - Liga Voli (Event Only)
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2024/10/996x664/livoli_b13dedb.jpg" group-title="CHANNEL | PROLIGA",Livoli 2024 - Liga Voli (Event Only)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
 https://kametv.my.id/pdx/play.mpd?id=17994
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="CHANNEL | PROLIGA",MOJI_(xtv)
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZgn_vTyF1GsMh5NzAdtv85tt-PaPTGD22tFJRHNR7PlJ9u8MeKH-LCm8&s=10" group-title="CHANNEL | PROLIGA",MOJI_(xtv)
 http://xtv.ooo:8080/0966717777/0966717777/350997
 
 
